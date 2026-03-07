@@ -83,9 +83,4 @@ Open the file in Microsoft Excel (2016 or later)
 
 Use the slicer on the dashboard to explore the data
 
-Review seasonal & YoY insights
-
-👨‍💻 Created By
-
-Mohammed K
-Data Analyst | Excel | SQL | Power BI
+Review seasonal & YoY insights.
