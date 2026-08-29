@@ -2,8 +2,7 @@
 
 📁 Project Overview
 
-This project contains a detailed Sales Analysis Dashboard created in Excel for Cavins.
-It helps analyse key sales trends, seasonal patterns, product performance, and year-on-year insights using Excel formulas, pivot tables, charts, and conditional formatting.
+This project contains a detailed Sales Analysis Dashboard created in Excel. It helps analyse key sales trends, seasonal patterns, product performance, and year-on-year insights using Excel formulas, pivot tables, charts, and conditional formatting.
 
 🎯 Objectives
 
