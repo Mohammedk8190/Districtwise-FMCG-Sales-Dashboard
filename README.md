@@ -1,85 +1,65 @@
-📊 Districtwise FMCG Sales Dashboard
+# Districtwise FMCG Sales Dashboard
 
-📁 Project Overview
+## Project Overview
 
 This project contains a detailed Sales Analysis Dashboard created in Excel. It helps analyse key sales trends, seasonal patterns, product performance, and year-on-year insights using Excel formulas, pivot tables, charts, and conditional formatting.
 
-🎯 Objectives
+## Objectives
 
-Clean and prepare raw sales data
+* Clean and prepare raw sales data
+* Aggregate sales by Product, Month, and Year
+* Identify Seasonal vs Non-Seasonal months
+* Calculate Year-on-Year (YoY) % Change
+* Build an interactive Excel dashboard with charts and highlights
 
-Aggregate sales by Product, Month, and Year
+## Key Features
 
-Identify Seasonal vs Non-Seasonal months
+### Data Cleaning
 
-Calculate Year-on-Year (YoY) % Change
+* Date conversions
+* Duplicate removal
+* Standardized product names
+* Corrected data formats
 
-Build an interactive Excel dashboard with charts and highlights
+### Analysis Performed
 
-🔍 Key Features
-✔ Data Cleaning
+* Monthly sales aggregation
+* Seasonal month flag using formulas
+* YoY comparison
+* Seasonal vs Non-Seasonal performance
 
-Date conversions
+### Interactive Dashboard
 
-Duplicate removal
+* Line chart for monthly trend
+* YoY bar chart
+* Seasonal/monthly highlights
+* Slicer for product-level filtering
 
-Standardized product names
+## Files Included
 
-Corrected data formats
+| File                        | Description                                              |
+| --------------------------- | -------------------------------------------------------- |
+| Cavins Project Analyst.xlsx | Main Excel file with data cleaning, analysis & dashboard |
 
-✔ Analysis Performed
+## Tools Used
 
-Monthly sales aggregation
+* Microsoft Excel
+* Pivot Tables
+* Charts
+* Conditional Formatting
+* Date & Text Functions
+* IF, SUMIFS, YEAR, MONTH formulas
 
-Seasonal month flag using formulas
+## Sample Insights
 
-YoY comparison
+* Identified peak sales months
+* Highlighted which products experience consistent seasonal spikes
+* Compared YoY sales performance for all products
+* Clear visualization of growth trends
 
-Seasonal vs Non-Seasonal performance
+## How to Use
 
-✔ Interactive Dashboard
-
-Line chart for monthly trend
-
-YoY bar chart
-
-Seasonal/monthly highlights
-
-Slicer for product-level filtering
-
-📑 Files Included
-File	Description
-Cavins Project Analyst.xlsx	Main Excel file with data cleaning, analysis & dashboard
-🛠 Tools Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Charts
-
-Conditional Formatting
-
-Date & Text Functions
-
-IF, SUMIFS, YEAR, MONTH formulas
-
-📈 Sample Insights
-
-Identified peak sales months
-
-Highlighted which products experience consistent seasonal spikes
-
-Compared YoY sales performance for all products
-
-Clear visualization of growth trends
-
-🚀 How to Use
-
-Download the Excel file
-
-Open the file in Microsoft Excel (2016 or later)
-
-Use the slicer on the dashboard to explore the data
-
-Review seasonal & YoY insights.
+1. Download the Excel file
+2. Open the file in Microsoft Excel (2016 or later)
+3. Use the slicer on the dashboard to explore the data
+4. Review seasonal and YoY insights
